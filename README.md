@@ -1,3 +1,6 @@
+<img width="562" height="777" alt="image" src="https://github.com/user-attachments/assets/aa839b63-b5a6-44c8-a0c7-ba20800d2713" />
+
+
 https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 dataset used
 <img width="1149" height="1350" alt="image" src="https://github.com/user-attachments/assets/48208a75-e1f9-4224-aa41-e009c6992e27" />
